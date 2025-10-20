@@ -63,6 +63,7 @@ flutter:
     - assets/images/patterns/block_image.png
     - assets/images/patterns/mvc_image.jpg
     - assets/images/patterns/mvvm_image.jpeg
+    - assets/images/profile/profile.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
